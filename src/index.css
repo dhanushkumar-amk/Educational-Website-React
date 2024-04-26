@@ -49,3 +49,7 @@ a {
   background: #212ea0;
   color: #fff;
 }
+
+li {
+  list-style: none;
+}
